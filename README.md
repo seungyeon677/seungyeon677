@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule&fontSize=90)
+
 # Hi there, I'm Seungyeon Lee 👋
 
 I am a **_Master of Science in Geography_** from Kyung Hee University.  
