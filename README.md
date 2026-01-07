@@ -37,3 +37,9 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
 | 2024 | **KGS** | Vulnerability Assessment for Pediatric Healthcare Services Using Agent–based Modeling | [🔗](https://doi.org/10.22776/kgs.2024.59.2.196) |
 | 2023 | **KGS** | Measuring Spatial Associations of Intercity Flows between Depopulation Regions Considering Nearest Neighborhoods | [🔗](https://doi.org/10.22776/kgs.2023.58.6.644) |
 <p align="right"><sub>* KGS: Journal of the Korean Geographical Society / IJGI: ISPRS International Journal of Geo-Information</sub></p>
+
+### 📧 Contact
+* 📧 **Email:** [seungyeon677@khu.ac.kr](mailto:seungyeon677@khu.ac.kr)
+* 🔗 **LinkedIn:** [seungyeon677](https://www.linkedin.com/in/seungyeon-lee-%EC%9D%B4%EC%8A%B9%EC%97%B0-4999b5264/)
+* 🎓 **Scholar:** [Google Scholar Profile](https://scholar.google.com/citations?hl=ko&user=i70YXFAAAAAJ&view_op=list_works&gmla=AElLoL0TNOnlmQyefgMmKEiFBnNWv3PT59pEbQczJkyb0Kv5ocVp1PRx-WnvbWutj68i54NmsY2YuiucHppHIabXVUZ3AGR1aOXrlHGG9QUb42fEs64e3K0ydQ)
+* 📄 **Curriculum Vitae:** [Download My CV](https://docs.google.com/document/d/1H5MS-g_JASMHbmcN66r7OjU1k2-yv6rY_OxcpZZBEhg/edit?tab=t.0#heading=h.j2uoi53mvtl2)
