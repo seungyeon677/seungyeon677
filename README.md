@@ -16,14 +16,14 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-  ![AnyLogic](https://img.shields.io/badge/AnyLogic-005691?style=flat&logo=appstore&logoColor=white)
+  ![AnyLogic](https://img.shields.io/badge/AnyLogic-005691?style=flat&logoColor=white)
   
 - **GIS & Remote Sensing**  
   ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-005E95?style=flat&logo=esri&logoColor=white)
   ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
   ![Pix4D](https://img.shields.io/badge/Pix4D-FFCD00?style=flat&logo=drone&logoColor=black)
-  ![ERDAS Imagine](https://img.shields.io/badge/ERDAS_Imagine-007396?style=flat&logo=hexagon&logoColor=white)
-
+  ![ERDAS Imagine](https://img.shields.io/badge/ERDAS_Imagine-007396?style=flat&logo=data-canals&logoColor=white)
+  
 ### 🚀 Publications
 
 | Year | Journal | Paper Title | Links | Code |
