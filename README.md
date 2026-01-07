@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seungyeon%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%20there,%20I'm%20Seongyeon%20Lee&fontSize=50)
 
 # Hi there, I'm Seungyeon Lee 👋
 
