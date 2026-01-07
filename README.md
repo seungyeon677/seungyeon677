@@ -16,7 +16,7 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-  ![AnyLogic](https://img.shields.io/badge/AnyLogic-005691?style=flat&logo=scipy&logoColor=white)
+  ![AnyLogic](https://img.shields.io/badge/AnyLogic-005691?style=flat&logo=anaconda&logoColor=white)
   
 - **GIS & Remote Sensing**  
   ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-005E95?style=flat&logo=esri&logoColor=white)
