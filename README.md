@@ -1,16 +1,16 @@
 # Hi there, I'm Seungyeon Lee 👋
 
 I am a **_Master of Science in Geography_** from Kyung Hee University.  
-My research lies at the intersection of <mark>**_GIS and Spatio-Temporal Data Analytics_**</mark>, with a mission to develop innovative solutions for more resilient and equitable urban environments.
+My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Analytics**</mark>, with a mission to develop innovative solutions for more resilient and equitable urban environments.
 
-I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio-temporal Big Data_** can transform our understanding of urban dynamics and improve public safety.
+I am actively seeking **_Ph.D. opportunities_** to further explore how **Spatio-temporal Big Data** can transform our understanding of urban dynamics and improve public safety.
 
 ### 🔍 Research Interests
-* **GeoAI & Spatial Deep Learning**  
+* <mark>**GeoAI & Spatial Deep Learning**</mark>  
   📍 Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.
-* **Urban Mobility & Traffic Safety**  
+* <mark>**Urban Mobility & Traffic Safety**</mark>  
   📍 Spatiotemporal network-based traffic congestion and safety analysis.
-* **Spatial Disparity & Accessibility**  
+* <mark>**Spatial Disparity & Accessibility**</mark>  
   📍 Accessibility modeling and vulnerability assessment.
 
 ### 🛠 Technical Skills
