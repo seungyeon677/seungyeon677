@@ -22,7 +22,7 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
   ![AnyLogic](https://img.shields.io/badge/AnyLogic-005691?style=flat&logoColor=white)
   
 - **GIS & Remote Sensing**  
-  ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-005E95?style=flat&logo=esri&logoColor=white)
+  ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-005E95?style=flat&logo=ArcGIS&logoColor=white)
   ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
   ![Pix4D](https://img.shields.io/badge/Pix4D-FFCD00?style=flat&logoColor=black)
   ![ERDAS Imagine](https://img.shields.io/badge/ERDAS_Imagine-007396?style=flat&logo=data-canals&logoColor=white)
