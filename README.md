@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Seungyeon Lee 👋
 
-<!--
-**seungyeon677/seungyeon677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Big Data Analytics**. My research focuses on enhancing urban safety and resilience through advanced spatial modeling.
 
-Here are some ideas to get you started:
+### 🔍 Research Interests
+* **GeoAI & Spatial Deep Learning:** Graph Neural Networks (GCN, STGCN) for traffic risk prediction.
+* **Urban Safety:** Fire accessibility analysis and emergency response optimization.
+* **Mobility & Accessibility:** Human mobility patterns and urban inequality analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+* **M.S. in Geography**, Kyung Hee University (Expected 2025)
+* **B.S. in Geography**, Kyung Hee University
+
+### 🚀 Key Projects & Publications
+* **[IJGI 2025]** Detecting Urban Traffic Risk Areas using GeoAI frameworks.
+* **[Research]** Analysis of Hourly Fire Accessibility through Road Congestion Networks.
+* **[Collaboration]** Support Strategies for Depopulated Regions (Korea Institute of Public Administration).
+
+### 🛠 Tech Stack
+* **Languages:** Python (Advanced), R, SQL
+* **GIS Tools:** ArcGIS Pro, QGIS, Google Earth Engine, Pix4D
+* **ML/DL:** PyTorch, Scikit-learn, AnyLogic (ABM)
+
+### 📫 Contact & Links
+* 📧 Email: [본인 이메일]
+* 📄 [Download My CV](본인 CV 링크 또는 파일 경로)
+* 🌐 [Personal Website](나중에 만들 웹사이트 주소)
