@@ -45,5 +45,4 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
 [![Personal Website](https://img.shields.io/badge/Personal_Website-4B275F?style=for-the-badge&logo=react&logoColor=white)](https://github.com/seungyeon677/)
 [![CV](https://img.shields.io/badge/CV-Black?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1H5MS-g_JASMHbmcN66r7OjU1k2-yv6rY_OxcpZZBEhg/edit?tab=t.0#heading=h.j2uoi53mvtl2)
 
-<br><br>
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=hits&size=small)](https://myhits.vercel.app)
