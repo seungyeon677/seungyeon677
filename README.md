@@ -3,12 +3,12 @@
 I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Data Analytics**. My research focuses on enhancing urban safety and resilience through advanced spatial modeling and deep learning frameworks.
 
 ### 🔍 Research Interests
-* **GeoAI & Spatial Deep Learning**
-  <sub>Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.</sub>
-* **Urban Mobility & Traffic Safety**
-  <sub>Spatiotemporal network-based traffic congestion and safety analysis.</sub>
-* **Spatial Disparity & Accessibility**
-  <sub>Accessibility modeling (2SFCA) and vulnerability assessment.</sub>
+**GeoAI & Spatial Deep Learning**
+<sub>Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.</sub>
+**Urban Mobility & Traffic Safety**
+<sub>Spatiotemporal network-based traffic congestion and safety analysis.</sub>
+**Spatial Disparity & Accessibility**
+<sub>Accessibility modeling (2SFCA) and vulnerability assessment.</sub>
 
 ### 🛠 Technical Skills
 * **Language:** English, Korean
