@@ -25,7 +25,7 @@ Markdown
 ### 🚀 Publications
 
 | Year | Journal | Paper Title | Links | Code |
-|:---:|:---:|:---|:---:|
+|:---:|:---:|:---|:---:|:---:|
 | 2025 | **IJGI** | Beyond the Road: A Regional Perspective on Traffic Congestion in Metro Atlanta | [DOI](https://doi.org/10.3390/ijgi14020061) | [💻Code](https://github.com/seungyeon677) |
 | 2025 | **KGS** | Correlation Between Intersection Traffic Environment Complexity and Accidents | [DOI](https://doi.org/10.22776/kgs.2025.60.4.451) |
 | 2024 | **KGS** | Unveiling Spatial Disparities between Public Rental Housing and Young People’s Daily Activity Spaces | [DOI](https://doi.org/10.22776/kgs.2024.59.4.573) | [💻Code](https://github.com/seungyeon677) |
