@@ -1,29 +1,21 @@
 # Hi there, I'm Seungyeon Lee 👋
 
-I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Big Data Analytics**. My research focuses on (research interest) through advanced spatial modeling.
+I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Data Analytics**. My research focuses on enhancing urban safety and resilience through advanced spatial modeling and deep learning frameworks.
 
 ### 🔍 Research Interests
-* **GeoAI & Spatial Deep Learning:** Graph Neural Networks (GCN, STGCN) for traffic risk prediction.
-* **Urban Safety:** Fire accessibility analysis and emergency response optimization.
-* **Mobility & Accessibility:** Human mobility patterns and urban inequality analysis.
+* **GeoAI & Spatial Deep Learning:** Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.
+* **Urban Mobility & Traffic Safety:** Spatiotemporal network-based traffic congestion and safety analysis.
+* **Spatial Disparity & Accessibility:** Accessibility modeling (2SFCA) and vulnerability assessment.
 
-### 🎓 Education
-* **M.S. in Geography**, Kyung Hee University
-* **B.S. in Geography**, Kyung Hee University
+### 🛠 Technical Skills
+* **Language:** English, Korean
+* **Programming & Simulation:** **Python**, PyTorch, R, AnyLogic
+* **GIS & Remote Sensing:** **ArcGIS Pro**, **QGIS**, Pix4D Mapper
 
-### 🚀 Key Projects & Publications
-* **[IJGI 2025]** Detecting Urban Traffic Risk Areas using GeoAI frameworks.
-* **[Research]** Analysis of Hourly Fire Accessibility through Road Congestion Networks.
-* **[Collaboration]** Support Strategies for Depopulated Regions (Korea Institute of Public Administration).
+### 🚀 Key Publications & Experience
+* **[IJGI]** Detecting Urban Traffic Risk Areas using GeoAI frameworks (First/Co-author).
+* **[J-1 Program]** Visiting Researcher at University of West Georgia (2024-2025).
+* **[Project]** Development of Support Strategies for Depopulated Regions (Korea Institute of Public Administration).
 
-### 🛠 Tech Stack
-* **Languages:** Python (Advanced), R
-* **GIS Tools:** ArcGIS Pro, QGIS, Google Earth Engine, Pix4D
-* **ML/DL:** PyTorch, Scikit-learn, AnyLogic (ABM)
-
-### 📫 Contact & Links
-* 📧 Email: [본인 이메일]
-* 📄 [Download My CV](본인 CV 링크 또는 파일 경로)
-* 🌐 [Personal Website](나중에 만들 웹사이트 주소)
-
-![Seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon677&show_icons=true&theme=radical)
+---
+![Seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon677&show_icons=true&theme=transparent)
