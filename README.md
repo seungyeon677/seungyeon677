@@ -13,9 +13,10 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 * **GIS & Remote Sensing:** **ArcGIS Pro**, **QGIS**, Pix4D Mapper
 
 ### 🚀 Key Publications & Experience
-* **[IJGI]** Detecting Urban Traffic Risk Areas using GeoAI frameworks (First/Co-author).
+* **[IJGI]** Detecting Urban Traffic Risk Areas using GeoAI frameworks (Co-author).
 * **[J-1 Program]** Visiting Researcher at University of West Georgia (2024-2025).
 * **[Project]** Development of Support Strategies for Depopulated Regions (Korea Institute of Public Administration).
 
----
-![Seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon677&show_icons=true&theme=transparent)
+### 📈 GitHub Stats
+![Seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon677&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungyeon677&layout=compact&theme=radical&hide_border=true)
