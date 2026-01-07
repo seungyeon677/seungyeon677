@@ -7,7 +7,7 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
 
 ### 🔍 Research Interests
 * **GeoAI & Spatial Deep Learning**  
-  📍 Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.
+  📍 Developing GNN-based frameworks for urban risk prediction.
 * **Urban Mobility & Traffic Safety**  
   📍 Spatiotemporal network-based traffic congestion and safety analysis.
 * **Spatial Disparity & Accessibility**  
