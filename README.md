@@ -1,6 +1,6 @@
 # Hi there, I'm Seungyeon Lee 👋
 
-I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Big Data Analytics**. My research focuses on [research interest] through advanced spatial modeling.
+I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Big Data Analytics**. My research focuses on (research interest) through advanced spatial modeling.
 
 ### 🔍 Research Interests
 * **GeoAI & Spatial Deep Learning:** Graph Neural Networks (GCN, STGCN) for traffic risk prediction.
@@ -8,7 +8,7 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 * **Mobility & Accessibility:** Human mobility patterns and urban inequality analysis.
 
 ### 🎓 Education
-* **M.S. in Geography**, Kyung Hee University (Expected 2025)
+* **M.S. in Geography**, Kyung Hee University
 * **B.S. in Geography**, Kyung Hee University
 
 ### 🚀 Key Projects & Publications
@@ -17,7 +17,7 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 * **[Collaboration]** Support Strategies for Depopulated Regions (Korea Institute of Public Administration).
 
 ### 🛠 Tech Stack
-* **Languages:** Python (Advanced), R, SQL
+* **Languages:** Python (Advanced), R
 * **GIS Tools:** ArcGIS Pro, QGIS, Google Earth Engine, Pix4D
 * **ML/DL:** PyTorch, Scikit-learn, AnyLogic (ABM)
 
@@ -25,3 +25,5 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 * 📧 Email: [본인 이메일]
 * 📄 [Download My CV](본인 CV 링크 또는 파일 경로)
 * 🌐 [Personal Website](나중에 만들 웹사이트 주소)
+
+![Seungyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungyeon677&show_icons=true&theme=radical)
