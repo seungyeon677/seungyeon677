@@ -56,3 +56,13 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
 
 > [!TIP]
 > **[📄 Download My Curriculum Vitae (PDF)](본인_CV_링크)**
+
+
+### 📫 Contact & Connect
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/icons/gmail.svg" width="20" /> <b>Email:</b> <a href="mailto:본인이메일@khu.ac.kr">본인이메일@khu.ac.kr</a> <br/>
+<img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/icons/linkedin.svg" width="20" /> <b>LinkedIn:</b> <a href="https://linkedin.com/in/본인아이디">Seungyeon Lee</a> <br/>
+<img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/icons/google-scholar.svg" width="20" /> <b>Google Scholar:</b> <a href="본인구글스칼라링크">Citations & Publications</a> <br/>
+<img src="https://raw.githubusercontent.com/rahultk31/rahultk31/master/assets/icons/pdf.svg" width="20" /> <b>Curriculum Vitae:</b> <a href="본인_CV_링크">Download PDF</a>
+</p>
