@@ -44,3 +44,15 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=ko&user=i70YXFAAAAAJ&view_op=list_works&gmla=AElLoL0TNOnlmQyefgMmKEiFBnNWv3PT59pEbQczJkyb0Kv5ocVp1PRx-WnvbWutj68i54NmsY2YuiucHppHIabXVUZ3AGR1aOXrlHGG9QUb42fEs64e3K0ydQ)
 [![CV](https://img.shields.io/badge/Curriculum_Vitae-Black?style=flat&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1H5MS-g_JASMHbmcN66r7OjU1k2-yv6rY_OxcpZZBEhg/edit?tab=t.0#heading=h.j2uoi53mvtl2)
 [![Personal Website](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seungyeon677/)
+
+
+### 📫 Contact & Connect
+
+<p align="left">
+  <a href="mailto:본인이메일@khu.ac.kr"><img src="https://img.shields.io/static/v1?label=Email&message=Contact%20Me&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/본인아이디"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="본인구글스칼라링크"><img src="https://img.shields.io/static/v1?label=Scholar&message=Citations&color=4285F4&style=for-the-badge&logo=google-scholar&logoColor=white" /></a>
+</p>
+
+> [!TIP]
+> **[📄 Download My Curriculum Vitae (PDF)](본인_CV_링크)**
