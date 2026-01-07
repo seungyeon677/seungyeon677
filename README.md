@@ -6,11 +6,11 @@ My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Ana
 I am actively seeking **_Ph.D. opportunities_** to further explore how **Spatio-temporal Big Data** can transform our understanding of urban dynamics and improve public safety.
 
 ### 🔍 Research Interests
-* <mark>**GeoAI & Spatial Deep Learning**</mark>  
+* **GeoAI & Spatial Deep Learning**  
   📍 Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.
-* <mark>**Urban Mobility & Traffic Safety**</mark>  
+* **Urban Mobility & Traffic Safety**  
   📍 Spatiotemporal network-based traffic congestion and safety analysis.
-* <mark>**Spatial Disparity & Accessibility**</mark>  
+* **Spatial Disparity & Accessibility**  
   📍 Accessibility modeling and vulnerability assessment.
 
 ### 🛠 Technical Skills
