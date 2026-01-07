@@ -47,4 +47,8 @@ I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio
 
 
 
-[![watched](https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=watched&size=small)](https://myhits.vercel.app)
+<p align="left">
+  <a href="https://myhits.vercel.app">
+    <img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fmyhits.vercel.app?color=green&label=watched&size=small" alt="watched">
+  </a>
+</p>
