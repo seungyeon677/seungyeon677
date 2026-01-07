@@ -1,11 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Seongyeon%20Lee&fontSize=60)
 
 I am a **_Master of Science in Geography_** from Kyung Hee University.  
-My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Analytics**</mark>,  
-with a mission to develop innovative solutions for more resilient and equitable urban environments.
+My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Analytics**</mark>, with a mission to develop innovative solutions for more resilient and equitable urban environments.
 
-I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio-temporal Big Data_** can  
-transform our understanding of urban dynamics and improve public safety.
+I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio-temporal Big Data_** can transform our understanding of urban dynamics and improve public safety.
 
 ### 🔍 Research Interests
 * **GeoAI & Spatial Deep Learning**  
