@@ -34,4 +34,4 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 | 2024 | **KGS** | Vulnerability Assessment for Pediatric Healthcare Services Using Agent–based Modeling | [🔗DOI](https://doi.org/10.22776/kgs.2024.59.2.196) |
 | 2023 | **KGS** | Measuring Spatial Associations of Intercity Flows between Depopulation Regions | [🔗DOI](https://doi.org/10.22776/kgs.2023.58.6.644) | [💻Code](https://github.com/seungyeon677) |
 
-<p align="right"><sub>* KGS: Journal of the Korean Geographical Society / IJGI: ISPRS International Jo
+<p align="right"><sub>* KGS: Journal of the Korean Geographical Society / IJGI: ISPRS International Journal of Geo–Information</sub></p>
