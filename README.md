@@ -12,6 +12,6 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 * **Programming & Simulation:** **Python**, PyTorch, R, AnyLogic
 * **GIS & Remote Sensing:** **ArcGIS Pro**, **QGIS**, Pix4D Mapper
 
-### 🚀 Publications
-* **[IJGI]** [Beyond the Road: A Regional Perspective on Traffic Congestion in Metro Atlanta](https://doi.org/10.3390/ijgi14020061)
+### 🚀 Recent Publications
+* **[IJGI]** Seong, J. C., Lee, S., Cho, Y., & Hwang, C. S. (2025). [Beyond the Road: A Regional Perspective on Traffic Congestion in Metro Atlanta. ISPRS International Journal of Geo–Information](https://doi.org/10.3390/ijgi14020061), 14(2), 61.
 
