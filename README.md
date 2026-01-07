@@ -1,6 +1,8 @@
 # Hi there, I'm Seungyeon Lee 👋
 
-I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Data Analytics**. My research focuses on enhancing urban safety and resilience through advanced spatial modeling and deep learning frameworks.
+I am a **Master of Science in Geography** from Kyung Hee University, currently preparing for a **Ph.D. program**. My research lies at the intersection of **GIS and Spatio-Temporal Data Analytics**, with a mission to develop innovative solutions for more resilient and equitable urban environments.
+
+I am actively seeking Ph.D. opportunities to further explore how **Spatio-temporal Big Data** can transform our understanding of urban dynamics and improve public safety.
 
 ### 🔍 Research Interests
 * **GeoAI & Spatial Deep Learning**  
