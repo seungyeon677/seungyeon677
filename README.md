@@ -22,7 +22,7 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
   ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-005E95?style=flat&logo=esri&logoColor=white)
   ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
   ![Pix4D](https://img.shields.io/badge/Pix4D-FFCD00?style=flat&logo=drone&logoColor=black)
-
+  ![ERDAS Imagine](https://img.shields.io/badge/ERDAS_Imagine-007396?style=flat&logo=hexagon&logoColor=white)
 
 ### 🚀 Publications
 
