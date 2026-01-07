@@ -30,8 +30,7 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
 |:---:|:---:|:---|:---:|:---:|
 | 2025 | **KGS** | A Study on the Correlation Between Intersection Traffic Environment Complexity and Accidents: A Case Study of Atlanta, Georgia, USA | [🔗](https://doi.org/10.22776/kgs.2025.60.4.451) |
 | 2025 | **IJGI** | Beyond the Road: A Regional Perspective on Traffic Congestion in Metro Atlanta | [🔗](https://doi.org/10.3390/ijgi14020061) | [💻](https://github.com/seungyeon677) |
-| 2024 | **KGS** | Unveiling Spatial Disparities between Public Rental Housing and Young People’s Daily Activity Spaces | [🔗](https://doi.org/10.22776/kgs.2024.59.4.573) | [💻](https://github.com/seungyeon677) |
+| 2024 | **KGS** | Unveiling Spatial Disparities between Public Rental Housing and Young People’s Daily Activity Spaces | [🔗](https://doi.org/10.22776/kgs.2024.59.4.573) |
 | 2024 | **KGS** | Vulnerability Assessment for Pediatric Healthcare Services Using Agent–based Modeling | [🔗](https://doi.org/10.22776/kgs.2024.59.2.196) |
-| 2023 | **KGS** | Measuring Spatial Associations of Intercity Flows between Depopulation Regions Considering Nearest Neighborhoods | [🔗](https://doi.org/10.22776/kgs.2023.58.6.644) | [💻](https://github.com/seungyeon677) |
-
+| 2023 | **KGS** | Measuring Spatial Associations of Intercity Flows between Depopulation Regions Considering Nearest Neighborhoods | [🔗](https://doi.org/10.22776/kgs.2023.58.6.644) |
 <p align="right"><sub>* KGS: Journal of the Korean Geographical Society / IJGI: ISPRS International Journal of Geo-Information</sub></p>
