@@ -3,7 +3,7 @@
 I am a **Master's student in Geography** at Kyung Hee University, specializing in **GeoAI and Spatio-temporal Data Analytics**. My research focuses on enhancing urban safety and resilience through advanced spatial modeling and deep learning frameworks.
 
 ### 🔍 Research Interests
-* **GeoAI & Spatial Deep Learning:**  
+* **GeoAI & Spatial Deep Learning**  
   📍 Developing GNN-based frameworks (GCN, STGCN) for urban risk prediction.
 * **Urban Mobility & Traffic Safety**  
   📍 Spatiotemporal network-based traffic congestion and safety analysis.
@@ -11,9 +11,20 @@ I am a **Master's student in Geography** at Kyung Hee University, specializing i
   📍 Accessibility modeling (2SFCA) and vulnerability assessment.
 
 ### 🛠 Technical Skills
-* **Language:** English, Korean
-* **Programming & Simulation:** **Python**, PyTorch, R, AnyLogic
-* **GIS & Remote Sensing:** **ArcGIS Pro**, **QGIS**, Pix4D Mapper
+
+- **Programming & Deep Learning**
+  ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+- **GIS & Remote Sensing**
+  ![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=for-the-badge&logo=esri&logoColor=white)
+  ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+  ![Pix4D](https://img.shields.io/badge/Pix4D-FFCD00?style=for-the-badge&logo=pix4d&logoColor=black)
+
+- **Languages & Others**
+  ![English](https://img.shields.io/badge/English-IELTS_7.0-blue?style=for-the-badge&logo=google-translate&logoColor=white)
+  ![Korean](https://img.shields.io/badge/Korean-Native-lightgrey?style=for-the-badge)
 
 ### 🚀 Publications
 
