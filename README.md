@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Seongyeon%20Lee&fontAlignY=40&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Seungyeon%20Lee&fontAlignY=40&fontSize=60)
 
 I am a **_Master of Science in Geography_** from Kyung Hee University.  
 My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Analytics**</mark>, with a mission to develop innovative solutions for more resilient and equitable urban environments.
