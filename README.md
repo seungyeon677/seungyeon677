@@ -3,7 +3,7 @@
 I am a **_Master of Science in Geography_** from Kyung Hee University.  
 My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Analytics**</mark>, with a mission to develop innovative solutions for more resilient and equitable urban environments.
 
-I am actively seeking **_Ph.D. opportunities_** to further explore how **_Spatio-temporal Big Data_** can transform our understanding of urban dynamics and improve public safety.
+I strive to leverage **_spatio-temporal big data_** and **_GeoAI_** to optimize navigation algorithms, ensuring seamless and safe mobility in the rapidly evolving SDV ecosystem.
 
 ### 🔍 Research Interests
 * **GeoAI & Spatial Deep Learning**  
