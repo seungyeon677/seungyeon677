@@ -1,17 +1,31 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Seungyeon%20Lee&fontAlignY=40&fontSize=60)
 
-I am a **_Master of Science in Geography_** from Kyung Hee University.  
-My research lies at the intersection of <mark>**GIS and Spatio-Temporal Data Analytics**</mark>, with a mission to develop innovative solutions for more resilient and equitable urban environments.
+# 🗺️ Shift from Static to Dynamic: Spatiotemporal Equity in Urban Systems
 
-I strive to leverage **_spatio-temporal big data_** and **_GeoAI_** to optimize navigation algorithms, ensuring seamless and safe mobility in the rapidly evolving SDV ecosystem.
+Hi there! 👋 I am a researcher specializing in **Human Mobility Patterns** and **Spatial Network Analysis**. My research focuses on interpreting movement patterns on road networks to predict regional changes and resolve social inequity. 
+
+I bridge the gap between rigorous **Spatial Data Science** and **Social Value** by capturing the hidden dynamics of urban inequality.
+
+
+## 🔬 Research Philosophy & Big Picture
+
+> *"Shifting social equity discussions from static, frozen urban representations to living, dynamic dimensions that evolve over time."*
+
+Traditional infrastructure and vulnerability analyses often treat urban space as a static snapshot (e.g., "Region A is vulnerable, Region B is safe"). However, real-world cities never sleep—population density, traffic congestion, and emergency demands fluctuate constantly between rush hours, late nights, and weekends. 
+
+By integrating the **'temporal axis'** into transportation networks, my work functions as a microscope, exposing real-world spatial inequalities as they unfold.
+
 
 ### 🔍 Research Interests
-* **GeoAI & Spatial Deep Learning**  
-  📍 Developing GNN-based frameworks for urban risk prediction.
-* **Urban Mobility & Traffic Safety**  
-  📍 Spatiotemporal network-based traffic congestion and safety analysis.
-* **Spatial Disparity & Accessibility**  
-  📍 Accessibility modeling and vulnerability assessment.
+* **Spatio-temporal Data Science & Network Analysis**  
+  📍 To interpret the complex and dynamics of human mobility by developing advanced mathematical models rooted in network topology and sptio-temporal data computation.
+* **Transportation Safety & Accessibility**  
+  📍 To evaluate and enhance the systemic safety and accessibility of transportation networks, ensuring resilient mobility and equitable access across all transit-driven urban scenarios.
+* **GeoAI for Smart & Resilient Cities**  
+  📍 To apply the power of geographic artificial intelligence and predictive modeling to anticipate future urban shocks and design adaptive spatial environments.
+* **Dynamic Urban Vulnerability & Spatial Equity**  
+  📍 To change the paradigm of social justice from static spatial analysis to time-dependent dimensions, thereby uncovering and mitigateing invisible, real-world blind spots.
+
 
 ### 🛠 Technical Skills
 
