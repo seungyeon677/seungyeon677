@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Seungyeon%20Lee&fontAlignY=40&fontSize=60)
 
-# 🗺️ Shift from Static to Dynamic: Spatiotemporal Equity in Urban Systems
+# 🗺️ Shift from Static to Dynamic: Spatio-temporal Equity in Urban Systems
 
 Hi there! 👋 I am a researcher specializing in **Human Mobility Patterns** and **Spatial Network Analysis**. My research focuses on interpreting movement patterns on road networks to predict regional changes and resolve social inequity. 
 
