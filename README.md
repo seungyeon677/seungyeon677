@@ -1,30 +1,34 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Seungyeon%20Lee&fontAlignY=40&fontSize=60)
 
-# 🗺️ Shift from Static to Dynamic: Spatio-temporal Equity in Urban Systems
+# 🗺️ Shift from Static to Dynamic: Spatiotemporal Mobility & Urban Equity
 
-Hi there! 👋 I am a researcher specializing in **Human Mobility Patterns** and **Spatial Network Analysis**. My research focuses on interpreting movement patterns on road networks to predict regional changes and resolve social inequity. 
+Hi there! 👋 I'm **Seungyeon Lee**, a spatial data researcher specializing in **Human Mobility Analytics**, **Spatial Network Analysis**, and **GeoAI**. 
 
-I bridge the gap between rigorous **Spatial Data Science** and **Social Value** by capturing the hidden dynamics of urban inequality.
+My work bridges Spatial Data Science and Social Equity by capturing the hidden, hour-by-hour dynamics of urban mobility during non-recurrent traffic events and climate hazards.
+
+🎓 **Prospective Ph.D. Applicant (Fall 2027)** | Open to academic discussions and research collaborations!
 
 
 ## 🔬 Research Philosophy & Big Picture
 
-> *"Shifting social equity discussions from static, frozen urban representations to living, dynamic dimensions that evolve over time."*
+> *"How do dynamic traffic events and environmental factors shape spatiotemporal mobility, and how can we advance predictive modeling to bridge spatial accessibility gaps?"*
 
-Traditional infrastructure and vulnerability analyses often treat urban space as a static snapshot (e.g., "Region A is vulnerable, Region B is safe"). However, real-world cities never sleep—population density, traffic congestion, and emergency demands fluctuate constantly between rush hours, late nights, and weekends. 
+Traditional infrastructure and vulnerability analyses often treat urban space as a static snapshot (e.g., "Region A is vulnerable, Region B is safe"). However, real-world cities never sleep—traffic congestion, human mobility, and flood risks fluctuate constantly.
 
-By integrating the **'temporal axis'** into transportation networks, my work functions as a microscope, exposing real-world spatial inequalities as they unfold.
+By integrating the **temporal axis** into spatial network analytics, my work functions as a microscope, exposing real-world spatial inequalities as they unfold during localized disruptions (e.g., flash floods, extreme weather) and providing data-driven evidence for urban resilience.
 
 
 ### 🔍 Research Interests
-* **Spatio-temporal Data Science & Network Analysis**  
-  📍 To interpret the complex and dynamics of human mobility by developing advanced mathematical models rooted in network topology and sptio-temporal data computation.
-* **Transportation Safety & Accessibility**  
-  📍 To evaluate and enhance the systemic safety and accessibility of transportation networks, ensuring resilient mobility and equitable access across all transit-driven urban scenarios.
-* **GeoAI for Smart & Resilient Cities**  
-  📍 To apply the power of geographic artificial intelligence and predictive modeling to anticipate future urban shocks and design adaptive spatial environments.
-* **Dynamic Urban Vulnerability & Spatial Equity**  
-  📍 To change the paradigm of social justice from static spatial analysis to time-dependent dimensions, thereby uncovering and mitigateing invisible, real-world blind spots.
+* **Spatiotemporal Network Analytics & OD Flow**
+  * 📍 Time-series mobility modeling, cascading disruption tracking, and traffic
+flow dynamics under dynamic environments.
+
+* **GeoAI & Predictive Counterfactual Simulation**
+  * 📍 Graph neural networks (GNNs), spatiotemporal deep learning, and predictive
+traffic modeling for urban resilience
+
+* **Dynamic Spatial Accessibility & Mobility Equity**
+  * 📍 Time-varying accessibility modeling and hour-by-hour vulnerability assessment for transport-disadvantaged populations.
 
 
 ### 🛠 Technical Skills
