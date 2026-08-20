@@ -20,15 +20,15 @@ By integrating the **temporal axis** into spatial network analytics, my work fun
 
 ### 🔍 Research Interests
 * **Spatiotemporal Network Analytics & OD Flow**  
-  📍 Time-series mobility modeling, cascading disruption tracking, and traffic
+📍 Time-series mobility modeling, cascading disruption tracking, and traffic
 flow dynamics under dynamic environments.
 
 * **GeoAI & Predictive Counterfactual Simulation**  
-  📍 Graph neural networks (GNNs), spatiotemporal deep learning, and predictive
+📍 Graph neural networks (GNNs), spatiotemporal deep learning, and predictive
 traffic modeling for urban resilience
 
 * **Dynamic Spatial Accessibility & Mobility Equity**  
-  📍 Time-varying accessibility modeling and hour-by-hour vulnerability assessment for transport-disadvantaged populations.
+📍 Time-varying accessibility modeling and hour-by-hour vulnerability assessment for transport-disadvantaged populations.
 
 
 ### 🛠 Technical Skills
