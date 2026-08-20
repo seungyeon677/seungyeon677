@@ -13,9 +13,9 @@ My work bridges Spatial Data Science and Social Equity by capturing the hidden, 
 
 > *"How do dynamic traffic events and environmental factors shape spatiotemporal mobility, and how can we advance predictive modeling to bridge spatial accessibility gaps?"*
 
-Traditional infrastructure and vulnerability analyses often treat urban space as a static snapshot (e.g., "Region A is vulnerable, Region B is safe"). However, real-world cities never sleep—traffic congestion, human mobility, and flood risks fluctuate constantly.
+Traditional infrastructure and vulnerability analyses often treat urban space as a static snapshot (e.g., "Region A is vulnerable, Region B is safe"). However, real-world cities never sleep—traffic congestion, human mobility, and environmental risks fluctuate constantly.
 
-By integrating the **temporal axis** into spatial network analytics, my work functions as a microscope, exposing real-world spatial inequalities as they unfold during localized disruptions (e.g., flash floods, extreme weather) and providing data-driven evidence for urban resilience.
+By integrating the **temporal axis** into spatial network analytics, my work functions as a microscope, exposing real-world spatial inequalities as they unfold during localized disruptions (e.g., heavy rainfall, extreme weather) and providing data-driven evidence for urban resilience.
 
 
 ### 🔍 Research Interests
